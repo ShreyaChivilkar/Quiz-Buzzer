@@ -13,3 +13,8 @@ They work on certain conditions:
 2.	 If several competitors press the button, button pressed by the first contestant should be selected.
 
 3.	Entire system should restart after each question.
+
+
+APPLICATIONS:
+The  quiz  buzzer  systems  are  widely  used  in  school,  colleges  and  TV programs. The team which presses the buzzer earliest is entitled to give the answer.  At  times  it  becomes  very  difficult  to  identify  which  team  has pressed the button when two teams press the buzzer within a very small time gap. In such cases the decision can be biased due to human intervention. The 
+quiz  buzzer  presented  here  takes  care  of  the  aforesaid  problem.  This  quiz buzzer  disables  the  other  inputs  as  soon  as  the  first  buzzer  is  pressed.  This quiz  buzzer  can  be  used  for  a  maximum  of  eight  teams.
